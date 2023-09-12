@@ -17,7 +17,7 @@ sys.path.append(dir_path)
 
 flags = open("gmailFlags.txt", "r", encoding="utf-8").read().split("\n")
 senders = [x for x in flags if "@" in x and len(x) != 0 and x[0] != "#"]
-replies = [x for x in flags if "@" not in x]
+replies = [x for x in flags if "@" not in x and len(x) != 0 and x[0] != "#"]
 
 def get_unread_emails():
     print("Getting emails")
