@@ -1,0 +1,214 @@
+OD : 01.01 : Global Family Day, Army Medical Corps Establishment Day
+OD : 04.01 : World Braille Day
+OD : 06.01 : National Technology Day, World War Orphans Day
+OD : 09.01 : NRI (Non-Resident Indian) Day or Pravasi Bharatiya Divas        
+OD : 12.01 : National Youth Day
+OD : 13.01 : Makar Sankranti or Lohri, Guru Govind Singh Jayanti (13th-14th)
+OD : 15.01 : Indian Army Day
+OD : 18.01 : National Immunization Day (Polio Day)
+OD : 23.01 : Netaji Subhas Chandra Bose Jayanti
+OD : 24.01 : National Girl Child Day
+OD : 25.01 : National Voters Day, National Tourism Day
+OD : 26.01 : Republic Day of India, International Customs Day
+OD : 27.01 : International Day of Commemoration
+OD : 28.01 : Birth Anniversary of Lala Lajpat Rai
+OD : 30.01 : Martyrs Day or Shaheed Diwas
+OD : 31.01 : World Leprosy Eradication Day
+
+OD : 01.02 : Indian Coast Guard Day
+OD : 02.02 : World Wetlands Day
+OD : 04.02 : World Cancer Day
+OD : 06.02 : International Day of Zero Tolerance of Female Genital Mutilation
+OD : 11.02 : International Day of Women and Girls in Science
+OD : 12.02 : National Productivity Day
+OD : 13.02 : National Women’s Day (Birth Date of Sarojini Naidu), World Radio Day
+OD : 14.02 : Valentine Day
+OD : 15.02 : International Childhood Cancer Day
+OD : 20.02 : World Day of Social Justice
+OD : 21.02 : International Mother Language Day
+OD : 24.02 : Central Excise Day
+OD : 27.02 : World NGO Day
+OD : 28.02 : National Science Day
+
+OD : 01.03 : Zero Discrimination Day, World Civil Defence Day
+OD : 01.03 : The day you made this program
+OD : 02.03 : Employee Appreciation Day
+OD : 03.03 : World Hearing Day, World Wildlife Day
+OD : 04.03 : National Security Day
+OD : 08.03 : International Women’s Day
+OD : 10.03 : CISF Raising Day, No Smoking Day (Second Wednesday of 03)
+OD : 13.03 : World Sleep Day
+OD : 14.03 : Pi day
+OD : 15.03 : World Consumer Rights Day
+OD : 16.03 : National Vaccination Day
+OD : 18.03 : Ordinance Factories Day (India)
+OD : 20.03 : World Sparrow Day, International Day of Happiness
+OD : 21.03 : World Forestry Day, World Poetry Day, World Down Syndrome Day
+OD : 22.03 : World Water Day, Bihar Day
+OD : 24.03 : World Tuberculosis (TB) Day
+OD : 27.03 : World Theatre Day
+
+OD : 01.04 : Odisha Day
+OD : 02.04 : World Autism Awareness Day, International Children’s Book Day
+OD : 04.04 : International Day for Mine Awareness
+OD : 05.04 : National Maritime Day
+OD : 07.04 :  World Health Day
+OD : 10.04 : World Homoeopathy Day (WHD)
+OD : 11.04 : National Safe Motherhood Day, National Pet Day
+OD : 13.04 : Jallianwala Bagh Massacre
+OD : 17.04 : World Haemophilia Day
+OD : 18.04 : World Heritage Day
+OD : 19.04 : World Liver Day
+OD : 21.04 : National Civil Service Day
+OD : 22.04 : World Earth Day
+OD : 23.04 : World Book and Copyright Day
+OD : 24.04 : National Panchayati Raj Day
+OD : 25.04 : World Malaria Day
+OD : 26.04 : World Intellectual Property Day
+OD : 27.04 : World Veterinary Day
+OD : 28.04 : World Day for Safety and Health at Work
+OD : 29.04 : International Dance Day
+OD : 30.04 : Ayushman Bharat Diwas
+
+OD : 01.05 : International Labour Day or 05 Day, Maharashtra Day
+OD : 03.05 : Press Freedom Day, World Laughter Day (first Sunday of 05)
+OD : 04.05 : International Firefighter’s Day, Coal Miners Day
+OD : 05.05 : World Asthma Day (First Tuesday of 05)
+OD : 07.05 : World Athletics Day, Rabindranath Tagore Jayanti
+OD : 08.05 : World Red Cross Day, World Thalassaemia Day
+OD : 11.05 : National Technology Day
+OD : 12.05 : International Nurses Day
+OD : 15.05 : International Day of Family
+OD : 16.05 : Armed Forces Day (Third Saturday of 05)
+OD : 17.05 : World Hypertension Day, World Telecommunication Day
+OD : 18.05 : World AIDS Vaccine Day, International Museum Day
+OD : 21.05 : National Anti-Terrorism Day
+OD : 22.05 : International Day for Biological Diversity
+OD : 24.05 : Commonwealth Day
+OD : 31.05 : Anti-Tobacco Day
+
+OD : 01.06 : World Milk Day, Global Day of Parents
+OD : 02.06 : Telangana Formation Day, International Sex Workers Day
+OD : 03.06 : World Bicycle Day
+OD : 04.06 : International Day of Innocent Children Victims of Aggression
+OD : 05.06 : World Environment day
+OD : 07.06 : World Food Safety Day
+OD : 08.06 : World Brain Tumour Day, World Oceans Day
+OD : 12.06 : Anti Child Labour day
+OD : 13.06 : International Albinism Awareness Day
+OD : 14.06 : World Blood Donor Day
+OD : 15.06 : World Wind Day
+OD : 17.06 : World Day to Combat Desertification and Drought (International)
+OD : 20.06 : World Refugee Day, Father’s Day (3rd Sunday)
+OD : 21.06 : International Day of Yoga, World Hydrography Day, World Music Day
+OD : 23.06 : International Olympic Day, United Nations Public Service Day, International Widow’s Day
+OD : 26.06 : International Day against Drug Abuse and Illicit Trafficking
+
+OD : 01.07 : National Doctor’s Day, Chartered Accountant’s Day (India), National Postal Worker Day,
+OD : 02.07 : World UFO Day, National Anisette Day
+OD : 04.07 : Independence Day USA
+OD : 06.07 : World Zoonoses day,
+OD : 11.07 : World Population Day
+OD : 12.07 : Paper Bag Day, National Simplicity Day
+OD : 15.07 : World Youth Skills Day
+OD : 17.07 : World Day for International Justice
+OD : 18.07 : Nelson Mandela Day
+OD : 22.07 : Pi Approximation Day
+OD : 26.07 : Kargil Vijay Diwas (Kargil Victory Day)
+OD : 28.07 : World Hepatitis Day, World Nature Conservation Day
+OD : 29.07 : International Tiger Day
+OD : 30.07 : International Friendship Day
+
+OD : 06.08 : Hiroshima Day
+OD : 07.08 : National Handloom Day
+OD : 08.08 : Friendship Day
+OD : 09.08 : Quit India Movement Day, Nagasaki Day
+OD : 12.08 : International Youth Day
+OD : 14.08 : Youm-e-Azadi (Pakistan’s Independence Day)
+OD : 13.08 : World Organ Donation Day
+OD : 15.08 : Independence Day of India
+OD : 16.08 : Bennington Battle Day
+OD : 17.08 : Indonesian Independence Day
+OD : 19.08 : World Photography Day, World Humanitarian Day, Krishna Janmashtami
+OD : 20.08 : Sadbhavna Divas
+OD : 22.08 : Raksha Bandhan
+OD : 26.08 : Women’s Equality Day
+OD : 29.08 : National Sports Day
+OD : 30.08 : Small Industry Day
+
+OD : 02.09 : World Coconut Day, Victory over Japan Day (USA)
+OD : 03.09 : Skyscraper Day
+OD : 05.09 : Teachers’ Day (India), International Day of Charity
+OD : 07.09 : Brazilian Independence Day, Forgiveness Day
+OD : 08.09 : International Literacy Day
+OD : 10.09 : World Suicide Prevention Day
+OD : 14.09 : Hindi Diwas, World First Aid Day
+OD : 15.09 : International Day of Democracy, Engineer’s Day (India)
+OD : 16.09 : World Ozone Day, Malaysia Day, International day of Preservation
+OD : 21.09 : World Alzheimer’s Day, International Day of Peace and Non-Violence
+OD : 22.09 : Rose Day (Welfare of Cancer patients)
+OD : 23.09 : International Day of Sign Languages
+OD : 26.09 : World Contraception Day, European Day of Languages, World Maritime Day
+OD : 27.09 : World Tourism Day
+OD : 28.09 : World Rabies Day
+OD : 29.09 : World Heart Day
+OD : 30.09 : International Translation Day
+
+OD : 01.10 : International Day for the Elderly, World Vegetarian Day, International Coffee Day
+OD : 02.10 : Gandhi Jayanti, International Day of Non-Violence
+OD : 03.10 : German Unity Day
+OD : 04.10 : World Habitat Day (First Monday), World Animal Welfare Day
+OD : 05.10 : World Teachers’ Day
+OD : 08.10 : Indian Air Force Day
+OD : 09.10 : World Post Office Day
+OD : 10.10 : World Mental Health Day, National Post Day
+OD : 11.10 : International Girl Child Day
+OD : 13.10 : UN International Day for Natural Disaster Reduction
+OD : 14.10 : World Standard Day
+OD : 15.10 : World Students Day, Global Handwashing Day, Pregnancy and Infant Loss Remembrance Day, World White Cane Day (guiding the blind)
+OD : 16.10 : World Food Day
+OD : 17.10 : International Poverty Eradication Day
+OD : 20.10 : National Solidarity Day (China attacked India on this day)
+OD : 24.10 : United Nations Day, World Development Information Day
+OD : 30.10 : World Thrift Day
+OD : 31.10 : Ekta Diwas (National Unity Day), Halloween
+
+OD : 01.11 : World Vegan Day, All Saints’ Day
+OD : 05.11 : World Tsunami Day
+OD : 07.11 : National Cancer Awareness day, Infant Protection Day
+OD : 09.11 : National Legal Service Day
+OD : 10.11 : Transport Day
+OD : 12.11 : Guru Nanak Dev’s Birth Anniversary, World Pneumonia Day
+OD : 13.11 : World Kindness Day
+OD : 13.11 : Det er pappa dag i Norge!!
+OD : 14.11 : Children’s Day, World Diabetes Day
+OD : 17.11 : National Epilepsy Day
+OD : 19.11 : World Toilet Day, International Men’s Day
+OD : 20.11 : Africa Industrialization Day, Universal Children’s Day
+OD : 21.11 : World Television Day
+OD : 24.11 : Thanksgiving (give tanks)
+OD : 25.11 : International Day for the Elimination of Violence against Women
+OD : 26.11 : Law Day (India)
+OD : 29.11 : International Day of Solidarity with Palestinian People
+
+OD : 01.12 : World AIDS Day
+OD : 02.12 : National Pollution Control Day
+OD : 03.12 : World Day of the Handicapped
+OD : 04.12 : Indian Navy Day
+OD : 05.12 : World Soil Day, International Volunteer Day
+OD : 07.12 : Indian Armed Forces Flag Day, International Civil Aviation Day
+OD : 09.12 : International Anti-Corruption Day
+OD : 10.12 : Human Rights Day
+OD : 11.12 : UNICEF Day, International Mountain Day
+OD : 14.12 : World Energy Conservation Day
+OD : 15.12 : International Tea Day
+OD : 16.12 : Vijay Diwas
+OD : 18.12 : Minorities Rights Day (India), International Migrants Day
+OD : 19.12 : Goa’s Liberation Day
+OD : 20.12 : International Human Solidarity Day
+OD : 22.12 : National Mathematics Day
+OD : 23.12 : Kisan Divas (Farmer’s Day in India)
+OD : 24.12 : Merry Christmas!
+OD : 24.12 : National Consumer Rights Day
+OD : 25.12 : not Christmas Day, Good Governance Day (India)
+OD : 31.12 : New Year’s Eve

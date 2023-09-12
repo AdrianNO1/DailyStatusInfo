@@ -1,0 +1,84 @@
+{
+  "date": "12.09.2023",
+  "events": [
+    {
+      "name": "Hindi Diwas, World First Aid Day",
+      "date": "14.09.2023"
+    },
+    {
+      "name": "International Day of Democracy, Engineer’s Day (India)",
+      "date": "15.09.2023"
+    },
+    {
+      "name": "World Ozone Day, Malaysia Day, International day of Preservation",
+      "date": "16.09.2023"
+    },
+    {
+      "name": "World Alzheimer’s Day, International Day of Peace and Non-Violence",
+      "date": "21.09.2023"
+    },
+    {
+      "name": "Rose Day (Welfare of Cancer patients)",
+      "date": "22.09.2023"
+    },
+    {
+      "name": "International Day of Sign Languages",
+      "date": "23.09.2023"
+    },
+    {
+      "name": "World Contraception Day, European Day of Languages, World Maritime Day",
+      "date": "26.09.2023"
+    },
+    {
+      "name": "Meta Connect (september 27th to september 28th)",
+      "date": "27.09.2023"
+    },
+    {
+      "name": "Produksjon og historiefortelling prøve",
+      "date": "02.10.2023"
+    },
+    {
+      "name": "Matte prøve",
+      "date": "05.10.2023"
+    }
+  ],
+  "new_videos": [
+    {
+      "title": "new stuffmadehere video!",
+      "url": "https://www.youtube.com/watch?v=cQO2XTP7QDw"
+    },
+    {
+      "title": "new bpsspace video!",
+      "url": "https://www.youtube.com/watch?v=A-X1PhR1D5Y"
+    },
+    {
+      "title": "new mrbeast6000 video!",
+      "url": "https://www.youtube.com/watch?v=L5kIXRdwGAI"
+    },
+    {
+      "title": "new rationalanimations video!",
+      "url": "https://www.youtube.com/watch?v=NqmUBZQhOYw"
+    },
+    {
+      "title": "new thebibitesdigitallife video!",
+      "url": "https://www.youtube.com/watch?v=AiL2NdS8P1E"
+    },
+    {
+      "title": "new sebastianlague video!",
+      "url": "https://www.youtube.com/watch?v=iScy18pVR58"
+    },
+    {
+      "title": "new AI Explained video!",
+      "url": "https://www.youtube.com/watch?v=2bn3S4vOVN4"
+    },
+    {
+      "title": "new pikajrl video!",
+      "url": "https://www.youtube.com/watch?v=RNPcE3kRsmk"
+    },
+    {
+      "title": "new pezzzaswork video!",
+      "url": "https://www.youtube.com/watch?v=puMvaNfukjE"
+    }
+  ],
+  "emails": []
+}

@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+    <title></title>
+    <script>
+      function updateTitle() {
+        var today = new Date();
+        var day = today.getDate();
+        var month = today.toLocaleString('default', { month: 'long' });
+        var ordinal = 'th';
+        if (day === 1 || day === 21 || day === 31) {
+          ordinal = 'st';
+        } else if (day === 2 || day === 22) {
+          ordinal = 'nd';
+        } else if (day === 3 || day === 23) {
+          ordinal = 'rd';
+        }
+        document.title = day + ordinal + ' ' + month;
+      }
+    </script>
+  </head>
+  <body onload="updateTitle()">
+    <!-- Main content -->
+    <main>
+        <!-- Today -->
+        <section class="category">
+            <h2>Today</h2>
+            <div class="box-container">
+                {% for event in data.events %}
+                    {% if event.days_until == 0 %}
+                        <div class="box today" data-days="0" data-is-birthday="{{ event.is_birthday}}" data-is-non-world-event="{{ event.is_self_event}}"><strong>{{ event.name }}</strong> - <span class="date">{{ event.date }}</span></div>
+                    {% endif %}
+                {% endfor %}
+            </div>
+        </section>
+
+        {% if data.emails %}
+            <!-- Emails -->
+            <section class="category">
+                <h2>Emails</h2>
+                <div class="box-container">
+                    {% for email in data.emails %}
+                        <div class="box" data-url="{{ email.url }}">{{ email.sender }} - {{ email.email }}</div>
+                    {% endfor %}
+                </div>
+            </section>
+        {% endif %}
+
+        {% if data.new_videos %}
+            <!-- New Videos -->
+            <section class="category">
+                <h2>New Videos</h2>
+                <div class="box-container">
+                    {% for video in data.new_videos %}
+                        <div class="box" data-url="{{ video.url }}">{{ video.title }}</div>
+                    {% endfor %}
+                </div>
+            </section>
+        {% endif %}
+
+
+        <!-- Upcoming Events -->
+        <section class="category">
+            <h2>Upcoming Events</h2>
+            <div class="box-container">
+                {% for event in data.events %}
+                    {% if event.days_until > 0 %}
+                        <div class="box" data-days="{{ event.days_until }}" data-is-birthday="{{ event.is_birthday}}" data-is-non-world-event="{{ event.is_self_event}}"><strong>{{ event.name }}</strong> - <span class="date">{{ event.date }}</span></div>
+                    {% endif %}
+                {% endfor %}
+            </div>
+        </section>
+
+        {% if not data.emails %}
+            <!-- No New Emails -->
+            <section class="category">
+                <h2>Emails</h2>
+                <p class="no-content">No new emails</p>
+            </section>
+        {% endif %}
+        
+        {% if not data.new_videos %}
+            <!-- No New Videos -->
+            <section class="category">
+                <h2>New Videos</h2>
+                <p class="no-content">No new videos</p>
+            </section>
+        {% endif %}
+    </main>
+
+    <!-- JavaScript -->
+    <script src="{{ url_for('static', filename='scripts.js') }}"></script>
+</body>
+</html>

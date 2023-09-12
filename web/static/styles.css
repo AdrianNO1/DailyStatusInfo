@@ -1,0 +1,142 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: linear-gradient(135deg, #3C096C, #8E97FD);
+    min-height: 100vh;
+}
+
+main {
+    padding: 20px;
+}
+
+.category {
+    margin-bottom: 40px;
+}
+
+h2 {
+    color: #FFFFFF;
+    margin-bottom: 20px;
+}
+
+.box-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+
+.box {
+    background-color: #F0F0F0;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    cursor: pointer;
+    flex: 1 1 200px;
+    transition: all 0.3s ease;
+}
+
+.box[data-url]:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 8px 12px rgba(0, 0, 0, 0.15);
+}
+
+.box[data-url] {
+    cursor: pointer;
+}
+
+.box[data-days="0"] {
+    background-color: #7ed957;
+    color: #FFFFFF;
+}
+
+.box[data-days="1"] {
+    background-color: #87c950;
+    color: #FFFFFF;
+}
+
+.box[data-days="2"] {
+    background-color: #90ba4a;
+    color: #FFFFFF;
+}
+
+.box[data-days="3"] {
+    background-color: #99aa44;
+    color: #FFFFFF;
+}
+
+.box[data-days="4"] {
+    background-color: #a29b3e;
+    color: #FFFFFF;
+}
+
+.box[data-days="5"] {
+    background-color: #ac8b37;
+    color: #FFFFFF;
+}
+
+.box[data-days="6"] {
+    background-color: #b57c31;
+    color: #FFFFFF;
+}
+
+.box[data-days="7"] {
+    background-color: #be6c2b;
+    color: #FFFFFF;
+}
+
+.box[data-days="8"] {
+    background-color: #c75d25;
+    color: #FFFFFF;
+}
+
+.box[data-days="9"] {
+    background-color: #d04d1f;
+    color: #FFFFFF;
+}
+
+.box[data-days="10"] {
+    background-color: #da3e18;
+    color: #FFFFFF;
+}
+
+.box[data-days="11"] {
+    background-color: #e32e12;
+    color: #FFFFFF;
+}
+
+.box[data-days="12"] {
+    background-color: #ec1f0c;
+    color: #FFFFFF;
+}
+
+.box[data-days="13"] {
+    background-color: #f50f06;
+    color: #FFFFFF;
+}
+
+.box[data-days="14"] {
+    background-color: #ff0000;
+    color: #FFFFFF;
+}
+
+.box[data-is-birthday="True"] {
+    background-color: rgb(0, 0, 0);
+    color: #ff0000;
+}
+
+.box[data-is-non-world-event="True"] {
+    background-color: #04729a;
+}
+
+
+
+.today {
+    font-weight: bold;
+}
+
+.date {
+    font-weight: normal;
+}
+
+.no-content {
+    color: #FFFFFF;
+}
